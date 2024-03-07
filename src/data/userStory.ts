@@ -2,39 +2,43 @@ import {User} from '../../types/users';
 
 export const data: User[] = [
   {
-    firstName: 'Joseph',
+    firstName: 'Aref',
     id: 1,
   },
   {
-    firstName: 'Angel',
+    firstName: 'Moris',
     id: 2,
   },
   {
-    firstName: 'White',
+    firstName: 'Milad',
     id: 3,
   },
   {
-    firstName: 'Olivier',
+    firstName: 'Afshin',
     id: 4,
   },
   {
-    firstName: 'Nata',
+    firstName: 'Tara',
     id: 5,
   },
   {
-    firstName: 'Adam',
+    firstName: 'Matin',
     id: 6,
   },
   {
-    firstName: 'Sean',
+    firstName: 'Osman',
     id: 7,
   },
   {
-    firstName: 'Nicolas',
+    firstName: 'Taha',
     id: 8,
   },
   {
-    firstName: 'Frederic',
+    firstName: 'Farid',
     id: 9,
+  },
+  {
+    firstName: 'Sara',
+    id: 10,
   },
 ];

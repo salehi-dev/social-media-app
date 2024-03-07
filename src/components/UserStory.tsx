@@ -1,13 +1,12 @@
 import React from 'react';
-import {Image, StyleSheet, Text, View} from 'react-native';
+import {StyleSheet, Text, View} from 'react-native';
 import {User} from '../../types/users';
+import UserProfileImage from './UserProfileImage';
 
 export default function UserStory(user: User) {
   return (
     <View style={styles.userStoryContainer}>
-      <View style={styles.userImageContainer}>
-        <Image source={require('../../assets/images/default-profile.png')} />
-      </View>
+      <UserProfileImage />
       <Text style={styles.name}>{user.firstName}</Text>
     </View>
   );
