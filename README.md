@@ -41,3 +41,5 @@ yarn ios
 ```
 
 
+We very much welcome your contribution, you can build together with us in the following ways 😃
+
