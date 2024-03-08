@@ -1,5 +1,4 @@
 
-# Getting Started
 
 ## Step 1: Start the Metro Server
 
